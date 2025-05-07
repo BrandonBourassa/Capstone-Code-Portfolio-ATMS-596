@@ -3,7 +3,7 @@
 This repository contains the data and code for my capstone project analyzing historical trends in Atmospheric Rivers (ARs) and their relationship to precipitation patterns along the U.S. West Coast. The research spans from 1950 to 2018, using the Gershunov AR Catalog and historical precipitation datasets to investigate changes in AR frequency, intensity, spatial distribution, and precipitation impacts over time.
 
 Contents
-- ARcatalog_NCEP_NEW_1948-2018_Comprehensive_FINAL_29JAN18.csv
+ARcatalog_NCEP_NEW_1948-2018_Comprehensive_FINAL_29JAN18.csv
 The Atmospheric River (AR) catalog containing variables such as AR ID, date, coastal latitude and longitude of landfall, integrated vapor transport (IVT), wind components, and more. This serves as the foundation for event identification.
 
 Capstone_Project_Bourassa.ipynb
