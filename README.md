@@ -1,4 +1,5 @@
-Capstone-Code-Portfolio-ATMS-596
+## Capstone-Code-Portfolio-ATMS-596
+
 This repository contains the data and code for my capstone project analyzing historical trends in Atmospheric Rivers (ARs) and their relationship to precipitation patterns along the U.S. West Coast. The research spans from 1950 to 2018, using the Gershunov AR Catalog and historical precipitation datasets to investigate changes in AR frequency, intensity, spatial distribution, and precipitation impacts over time.
 
 Contents
