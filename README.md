@@ -4,7 +4,7 @@ This repository contains the data and code for my capstone project analyzing his
 
 Contents
 - ARcatalog_NCEP_NEW_1948-2018_Comprehensive_FINAL_29JAN18.csv
-- The Atmospheric River (AR) catalog containing variables such as AR ID, date, coastal latitude and longitude of landfall, integrated vapor transport (IVT), wind components, and more. This serves as the foundation for event identification.
+The Atmospheric River (AR) catalog containing variables such as AR ID, date, coastal latitude and longitude of landfall, integrated vapor transport (IVT), wind components, and more. This serves as the foundation for event identification.
 
 Capstone_Project_Bourassa.ipynb
 - A Jupyter Notebook that includes all code used for:
@@ -17,6 +17,10 @@ Capstone_Project_Bourassa.ipynb
 - Visualizing results with maps and time series
 
 Requirements
+
+Gridded Precipitation Data
+Daily precipitation data used to quantify AR-related and non-AR-related rainfall over time. The dataset is available from the NOAA Climate Prediction Center (CPC):
+https://psl.noaa.gov/data/gridded/data.cpc.globalprecip.html
 To run the analysis, the following Python libraries are required:
 
 - xarray
