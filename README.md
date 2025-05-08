@@ -6,7 +6,7 @@ Contents
 ARcatalog_NCEP_NEW_1948-2018_Comprehensive_FINAL_29JAN18.csv
 The Atmospheric River (AR) catalog containing variables such as AR ID, date, coastal latitude and longitude of landfall, integrated vapor transport (IVT), wind components, and more. This serves as the foundation for event identification.
 
-Capstone_Project_Bourassa.ipynb
+Capstone_Project_Bourassa_FULL.ipynb
 - A Jupyter Notebook that includes all code used for:
 
 - Preprocessing the AR catalog
