@@ -9,6 +9,9 @@ The Atmospheric River (AR) catalog containing variables such as AR ID, date, coa
 Capstone_Project_Bourassa_FULL.ipynb
 - A Jupyter Notebook that includes all code used for:
 
+Precip_data
+- All Precipitation files from 1960-2015 in .nc format.
+
 - Preprocessing the AR catalog
 - Merging AR events with gridded precipitation data
 - Performing trend analyses on AR frequency, intensity, and precipitation
