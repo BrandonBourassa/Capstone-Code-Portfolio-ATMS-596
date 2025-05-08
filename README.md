@@ -12,7 +12,7 @@ Capstone_Project_Bourassa_FULL.ipynb
 Precip_data
 - All Precipitation files from 1960-2015 in .nc format.
 
-- Preprocessing the AR catalog
+Preprocessing the AR catalog
 - Merging AR events with gridded precipitation data
 - Performing trend analyses on AR frequency, intensity, and precipitation
 - Identifying spatial shifts in AR landfall and precipitation centroids
